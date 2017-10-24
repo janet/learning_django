@@ -1,3 +1,4 @@
-# learning_django
+# [Django Docs](https://docs.djangoproject.com/en/1.11/)
 
-- [ ] task list
+- [ ] Tutorials
+  - [x] Django at a glance
