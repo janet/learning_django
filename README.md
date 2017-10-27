@@ -3,7 +3,7 @@
 - [ ] Tutorials
   - [x] Django at a glance
   - [x] Writing your first Django app, part 1
-  - [ ] Writing your first Django app, part 2
+  - [x] Writing your first Django app, part 2
   - [ ] Writing your first Django app, part 3
   - [ ] Writing your first Django app, part 4
   - [ ] Writing your first Django app, part 5
