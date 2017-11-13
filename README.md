@@ -7,5 +7,5 @@
   - [x] Writing your first Django app, part 3
   - [x] Writing your first Django app, part 4
   - [x] Writing your first Django app, part 5
-  - [ ] Writing your first Django app, part 6
+  - [x] Writing your first Django app, part 6
   - [ ] Writing your first Django app, part 7
