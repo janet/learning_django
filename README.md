@@ -10,4 +10,21 @@
   - [x] Writing your first Django app, part 5
   - [x] Writing your first Django app, part 6
   - [x] Writing your first Django app, part 7
-  - [ ] Advanced tutorial: How to write reusable apps
+  - [x] Advanced tutorial: How to write reusable apps
+  - [ ] Advanced tutorial: Writing your first patch for Django
+
+- [ ] Topic Guides
+
+  - [ ] How to install Django
+  - [ ] Models and databases
+    - [ ] Models
+    - [ ] Making queries
+    - [ ] Aggregation
+    - [ ] Search
+    - [ ] Managers
+    - [ ] Performing raw SQL queries
+    - [ ] Database transactions
+    - [ ] Multiple databases
+    - [ ] Tablespaces
+    - [ ] Database access optimization
+    - [ ] Examples of model relationship API usage
