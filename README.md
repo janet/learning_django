@@ -17,7 +17,7 @@
 
   - [ ] How to install Django
   - [ ] Models and databases
-    - [ ] Models
+    - [x] Models
     - [ ] Making queries
     - [ ] Aggregation
     - [ ] Search
